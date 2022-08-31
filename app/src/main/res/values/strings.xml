@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraView</string>
+    <string name="continue_text">Continue</string>
+    <string name="cameraError">Camera Error</string>
+    <string name="errorCode">Error Code:</string>
+    <string name="ok">OK</string>
+    <string name="take_picture">Take picture</string>
+</resources>

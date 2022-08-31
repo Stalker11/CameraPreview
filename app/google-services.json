@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "870695226473",
+    "project_id": "camerafacetest",
+    "storage_bucket": "camerafacetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870695226473:android:5eabe8e713db6aa6ab66f8",
+        "android_client_info": {
+          "package_name": "com.olehel.cameraview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870695226473-tf0tfhtdh810ltcfbh7ots4jdoh2e90a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olehel.cameraview",
+            "certificate_hash": "9336e7ec518d7c50fadf57785915f05393e21520"
+          }
+        },
+        {
+          "client_id": "870695226473-b2o7ukagqbr1n8k5kqp950i3m8a9s7vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo-tEmtN9CxgCcWzWRhrcpnQG_Y2n-JlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870695226473-b2o7ukagqbr1n8k5kqp950i3m8a9s7vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/app_graph"
+    app:startDestination="@id/userIdFragment">
+
+    <fragment
+        android:id="@+id/userIdFragment"
+        android:name="com.olehel.cameraview.ui.UserIdFragment"
+        android:label="UserIdFragment" >
+        <action
+            android:id="@+id/action_userIdFragment_to_cameraFragment"
+            app:destination="@id/cameraFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/cameraFragment"
+        android:name="com.olehel.cameraview.ui.CameraFragment"
+        android:label="CameraFragment" />
+</navigation>
